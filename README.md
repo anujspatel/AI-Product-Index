@@ -71,6 +71,7 @@ A community-curated index to track and discover awesome AI-powered products. Thi
 
 
 ## Productivity
+- [BuyReddit](https://www.buyreddit.com/) - smarter shopping with wisdom of Reddit
 - [Smart Write & Smart Edit (by Mem)](https://get.mem.ai/) - knowledge-aware AI writer
 - [Writers brew AI](https://writersbrew.app) - One AI assistant that works across all apps & browsers.
 - [DraftLab](https://draftlab.ai/) - Gmail copilot
